@@ -64,7 +64,7 @@
   }
 }
 
-@keyframe clouds-animation{
+@keyframes clouds-animation{
   from{
     right: -550px;
   }
